@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px;
+  text-align: center;
+  margin-top: : 0px;
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 20px;
+}
+
+h3 {
+  margin-top: 0px;
+  padding: 20px;
+  text-align: center;
+  padding-bottom: 0px;
+  margin-bottom: 10px;
+}
+
+.menu {
+  background-color: green;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.menu a {
+  display: inline-block;
+  margin: -1px 1px 1px -1px;
+  width: calc((100%-36px)/4);
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.25em;
+  color: black;
+}
+
+.content {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#date {
+  text-align: center;
+  font-size: 0.75em;
+  padding-top: 0px;
+}
+
+p {
+  text-align: justify;
+  padding-top: 10px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.footer a {
+  display: inline-block;
+  width: 10%;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.15em;
+  color: black;
+}
