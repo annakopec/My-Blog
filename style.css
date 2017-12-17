@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  margin-bottom: 53px;
 }
 
 .header {
@@ -103,6 +104,10 @@ p {
 
 .footer {
   text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
 }
 
 .footer a {
