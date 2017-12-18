@@ -91,6 +91,19 @@ ul.clearfix {
   margin-right: 100px;
 }
 
+.image-wrapper {
+  margin: 20px;
+  text-align: center;
+}
+
+.image-wrapper img {
+  border-radius: 50%;
+}
+
+.about-me-text {
+  text-align: center;
+}
+
 #date {
   text-align: center;
   font-size: 0.75em;
