@@ -143,3 +143,8 @@ p {
   font-size: 1.15em;
   color: black;
 }
+
+.inner-footer {
+  box-shadow: 10px 10px 10px 10px black;
+  padding: 10px;
+}
