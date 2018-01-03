@@ -70,13 +70,14 @@ ul.clearfix {
 .nav-menu a {
   text-decoration: none;
   font-size: 1.1em;
-  color: black;
+  color: white;
   font-family: 'Open Sans', sans-serif;
   letter-spacing: 2px;
 }
 
 .nav-menu li:hover {
   background-color: #7c99d6;
+  box-shadow: inset 0px 0px 20px #4f73be;
 }
 
 .nav-menu ul {
@@ -149,7 +150,7 @@ p {
   margin-top: 80px;
 }
 
-.footer {
+/*.footer {
   text-align: center;
   position: fixed;
   bottom: 0;
@@ -169,4 +170,4 @@ p {
 .inner-footer {
   box-shadow: 10px 10px 10px 10px black;
   padding: 10px;
-}
+}*/
