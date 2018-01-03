@@ -100,7 +100,7 @@ ul.clearfix {
   display: none;
   background-color: #4f73be;
   width: 24%;
-  top: 52px;  /* height of the menu */
+  top: 60px;  /* height of the menu */
 }
 
 .sub-menu li {
